@@ -1,0 +1,86 @@
+/* p {
+  color: green;
+}
+h1 {
+  font-size: 40px;
+} */
+/* h4 {
+  text-transform: uppercase;
+} */
+/* .uppercase {
+  text-transform: uppercase;
+}
+.cursive {
+  font-family: cursive;
+}
+#blog-desc {
+  color: #907a38;
+  font-size: 50px;
+} */
+/* .container {
+  position: relative;
+} */
+/* body {
+  background: url(../image/img2.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+} */
+/* .header {
+  margin-top: 2%;
+} */
+
+.logo {
+  height: 200px;
+  position: relative;
+  display: inline;
+  margin-top: 2%;
+}
+.logo a:hover {
+  box-shadow: -80px -80px 200px 100px;
+  color: rgb(140, 113, 44);
+  outline: none;
+}
+#blog-desc {
+  position: absolute;
+  display: inline;
+  margin-top: 3%;
+  font-weight: bolder;
+  margin-left: 50px;
+  font-size: 50px;
+}
+#blog-desc a {
+  text-decoration: none;
+  color: rgb(140, 113, 44);
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.cursive {
+  font-family: cursive;
+}
+main header h1 {
+  color: rgb(34, 56, 123);
+  font-size: 50px;
+}
+h4 {
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(34, 56, 123);
+}
+.h3,
+h3 {
+  font-size: 20px;
+  color: rgb(43, 127, 195);
+}
+header h1 {
+  margin-top: 3%;
+  position: relative;
+  display: inline-block;
+}
+.content {
+  color: black;
+  font-size: medium;
+}
+main header img {
+  width: 100%;
+}
